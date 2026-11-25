@@ -4,7 +4,7 @@
 
 A következők közös projektje:
 
-- Hudácskó Szilvia: "Egy termék"
+- Hudácskó Szilvia: "Termékek"
 - Czitler Sándor: "Kosár"
-- Kovács Olivér: "Termékek"
+- Kovács Olivér: "Egy termék"
 

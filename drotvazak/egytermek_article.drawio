@@ -1,0 +1,29 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Oldal-1" id="G_An13wG8s_MLKQiceuA">
+    <mxGraphModel dx="1125" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GLGi6ClBdOzp2nf2OlzQ-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="560" width="760" x="34" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GLGi6ClBdOzp2nf2OlzQ-2" parent="1" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;spacingBottom=50;fontSize=14;" value="&lt;div&gt;&lt;b&gt;Adatok&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Lorem&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Ipsum&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Dolor&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Sit&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;- Amet&lt;/b&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="390" width="220" x="560" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GLGi6ClBdOzp2nf2OlzQ-3" parent="GLGi6ClBdOzp2nf2OlzQ-2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" value="Image cap" vertex="1">
+          <mxGeometry height="180" relative="1" width="220.00000000000003" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GLGi6ClBdOzp2nf2OlzQ-4" parent="GLGi6ClBdOzp2nf2OlzQ-2" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" value="Kosárba tesz" vertex="1">
+          <mxGeometry height="40" relative="1" width="119.16666666666669" y="1" as="geometry">
+            <mxPoint x="20" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GLGi6ClBdOzp2nf2OlzQ-13" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Title" vertex="1">
+          <mxGeometry height="540" width="500" x="40" y="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
